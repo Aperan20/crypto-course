@@ -50,7 +50,6 @@ body{
 .navbar{
     display: flex;
     justify-content: space-around;
-    cursor: pointer;
     background-color: black;
     color: antiquewhite;
 }
