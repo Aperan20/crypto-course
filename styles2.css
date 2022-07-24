@@ -148,8 +148,8 @@ body{
 
 .sec2{
     
-    font-size: large;
-    color: rgb(249, 249, 174);
+    font-size: small;
+    color:aliceblue(249, 249, 174);
     background-color:rgb(71, 2, 71);
     padding:16px;
     margin: 8px;
