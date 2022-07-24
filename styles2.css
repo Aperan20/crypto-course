@@ -58,6 +58,7 @@ body{
 .navbar ul {
     display: flex;
     list-style: none;
+    cursor: pointer;
 }
 
 .navbar a{
@@ -93,7 +94,6 @@ body{
 }
 
 .sec{
-    font-family: 'Poppins', sans-serif;
     color: white;
     font-size: x-large;
     background-color: rgb(71, 2, 71);
@@ -147,8 +147,9 @@ body{
 
 
 .sec2{
-    font-family: 'Poppins', sans-serif;
+    
     font-size: large;
+    color: rgb(249, 249, 174);
     background-color:rgb(71, 2, 71);
     padding:16px;
     margin: 8px;
@@ -171,7 +172,7 @@ body{
     font-size: small;
     text-align: center;
     flex-direction: column;
-    font-family: 'Poppins', sans-serif;
+
     font-size: x-large;
     color:black;
     align-items: center;
