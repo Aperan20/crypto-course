@@ -50,6 +50,7 @@ body{
 .navbar{
     display: flex;
     justify-content: space-around;
+    cursor: pointer;
     background-color: black;
     color: antiquewhite;
 }
@@ -147,7 +148,7 @@ body{
 
 .sec2{
     
-    font-size: small;
+    font-size: x-small;
     color:aliceblue(249, 249, 174);
     background-color:rgb(71, 2, 71);
     padding:16px;
