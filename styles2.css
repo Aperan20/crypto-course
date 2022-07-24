@@ -148,13 +148,13 @@ body{
 
 .sec2{
     
-    font-size: small;
-    color:white;
+    font-size:x-small;
+    color:black;
     background-color:rgb(71, 2, 71);
     padding:16px;
     margin: 8px;
-    border: inset; 
-    border-radius: 14px;
+    border: dashed; 
+    
     
 }
 
